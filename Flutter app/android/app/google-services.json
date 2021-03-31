@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433791452024",
+    "firebase_url": "https://virtual-dr-kit.firebaseio.com",
+    "project_id": "virtual-dr-kit",
+    "storage_bucket": "virtual-dr-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433791452024:android:125e0c2720fe4c65e1be8d",
+        "android_client_info": {
+          "package_name": "com.example.VIRTUALDRKIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433791452024-4is659e7bpr8dehr9dp9q4l5vk5blj0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4b_uGxZZxGUpxP4aQfw4ID_C3TTnOSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433791452024-4is659e7bpr8dehr9dp9q4l5vk5blj0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
