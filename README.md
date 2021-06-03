@@ -42,10 +42,10 @@ If any of the below affect you ,it's worth having an retinopathy screening exami
 ⭕Raised fats(truglycerides) in blood
 
 
-Goal: To represent the Level of Disease that is Diabetic Retinopathy in a patient through an Android Application and provide some other facilities like patient records and a chatbot for clearing of doubts patients and new customers etc.,
-Technical Features:
-	Application runs on basis of input taken by Iris Scanner, which will be sent as an input to the Application Detecting Interface in brief to the AI Image Classification Model as an image of shape 224,224 pixels (They are reshaped internally).
-	On running of the pre trained model the AI sends the prediction i.e., result into the app interface to represent in the UI. 
-	After the prediction of level Disease, we proceed for the suggestions i.e., an automatic online prescription is generated. 
-	Further all the iris images of user will be stored internally in the Database separately for quick monitoring.
-	A chatbot i.e., a chat section is provided for the customers to clear some basic doubts regarding the diseases and precautionary measures.
+<b>Goal:</b> To represent the Level of Disease that is Diabetic Retinopathy in a patient through an Android Application and provide some other facilities like patient records and a chatbot for clearing of doubts patients and new customers etc.,
+Technical Features:<br>
+	Application runs on basis of input taken by Iris Scanner, which will be sent as an input to the Application Detecting Interface in brief to the AI Image Classification Model as an image of shape 224,224 pixels (They are reshaped internally).<br><br>
+	On running of the pre trained model the AI sends the prediction i.e., result into the app interface to represent in the UI. <br><br>
+	After the prediction of level Disease, we proceed for the suggestions i.e., an automatic online prescription is generated. <br><br>
+	Further all the iris images of user will be stored internally in the Database separately for quick monitoring.<br><br>
+	A chatbot i.e., a chat section is provided for the customers to clear some basic doubts regarding the diseases and precautionary measures.<br><br>
