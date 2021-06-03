@@ -1,4 +1,4 @@
-# GDSC-2021
+# NEWGen-IDEC 
 
 What is meant by diabetic retinopathy?
 
