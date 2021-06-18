@@ -10,14 +10,9 @@ Mostly 60% of diabetic patients will have this diabetic retinopathy disease beca
 
 Reasons of diabetic retinopathy:
 
-1.
-For diabetic people, sugar levels of blood will lead high pressure inside blood vessels and this uncontrolled blood sugar causes damage to body ,then our smallest vessels are at highest risk at that time.
+1. For diabetic people, sugar levels of blood will lead high pressure inside blood vessels and this uncontrolled blood sugar causes damage to body ,then our smallest vessels are at highest risk at that time. The diabetic retinopathy disease is not suddenly occured ones ,it's progressive one. The persons with this disease will be seeing blackspots  on their eye  vision and its sometimes eventually leads to permanent blindness also.
 
-The diabetic retinopathy disease is not suddenly occured ones ,it's progressive one. The persons with this disease will be seeing blackspots  on their eye  vision and its sometimes eventually leads to permanent blindness also.
-
-
-2.
-Sometimes abnormal vessels grow at back side of our eye that is at retina part. Even that abnormal growth of blood vessels at retina will leads to diabetic retinopathy.
+2. Sometimes abnormal vessels grow at back side of our eye that is at retina part. Even that abnormal growth of blood vessels at retina will leads to diabetic retinopathy.
 
 Additional information..!
 
@@ -31,21 +26,21 @@ So to avoid that, patients should screen for particular time period regularly an
 
 If any of the below affect you ,it's worth having an retinopathy screening examination as quickly as possible
 
-⭕Poor blood glucose control
+* Poor blood glucose control
 
-⭕Protein in urine
+* Protein in urine
 
-⭕High blood pressure
+* High blood pressure
 
-⭕Prolonged diabetes
+* Prolonged diabetes
 
-⭕Raised fats(truglycerides) in blood
+* Raised fats(truglycerides) in blood
 
 
 <b>Goal:</b> To represent the Level of Disease that is Diabetic Retinopathy in a patient through an Android Application and provide some other facilities like patient records and a chatbot for clearing of doubts patients and new customers etc.<br>
 Technical Features:<br><br>
-	Application runs on basis of input taken by Iris Scanner, which will be sent as an input to the Application Detecting Interface in brief to the AI Image Classification Model as an image of shape 224,224 pixels (They are reshaped internally).<br><br>
-	On running of the pre trained model the AI sends the prediction i.e., result into the app interface to represent in the UI. <br><br>
-	After the prediction of level Disease, we proceed for the suggestions i.e., an automatic online prescription is generated. <br><br>
-	Further all the iris images of user will be stored internally in the Database separately for quick monitoring.<br><br>
-	A chatbot i.e., a chat section is provided for the customers to clear some basic doubts regarding the diseases and precautionary measures.<br><br>
+> Application runs on basis of input taken by Iris Scanner, which will be sent as an input to the Application Detecting Interface in brief to the AI Image Classification Model as an image of shape 224,224 pixels (They are reshaped internally).<br><br>
+> On running of the pre trained model the AI sends the prediction i.e., result into the app interface to represent in the UI. <br><br>
+>	After the prediction of level Disease, we proceed for the suggestions i.e., an automatic online prescription is generated. <br><br>
+>	Further all the iris images of user will be stored internally in the Database separately for quick monitoring.<br><br>
+>	A chatbot i.e., a chat section is provided for the customers to clear some basic doubts regarding the diseases and precautionary measures.<br><br>
