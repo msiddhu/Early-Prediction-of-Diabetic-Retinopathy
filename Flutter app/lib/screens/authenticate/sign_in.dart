@@ -1,5 +1,5 @@
 import 'package:VIRTUALDRKIT/services/auth.dart';
-import 'file:///C:/Users/msidd/Desktop/projects/VIRTUALDRKIT/lib/services/loading.dart';
+import 'package:VIRTUALDRKIT/services/loading.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';

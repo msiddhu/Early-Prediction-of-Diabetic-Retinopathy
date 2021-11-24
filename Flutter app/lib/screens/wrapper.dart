@@ -1,4 +1,4 @@
-import 'file:///C:/Users/msidd/Desktop/projects/VIRTUALDRKIT/lib/services/user.dart';
+import 'package:VIRTUALDRKIT/services/user.dart';
 import 'package:VIRTUALDRKIT/screens/authenticate/authenticate.dart';
 import 'package:VIRTUALDRKIT/screens/home/profile_page.dart';
 import 'package:VIRTUALDRKIT/screens/home/home_page.dart';
